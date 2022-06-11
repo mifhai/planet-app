@@ -18,6 +18,29 @@ ul {
   padding: 0;
 }
 
+li {
+  float: left;
+  padding: 10px;
+}
+
+.container {
+  width: 60%;
+}
+
+
+@media only screen and (max-width: 700px) {
+  .container {
+    width: 95%;
+  }
+  li {
+    float: left;
+    padding: 5px;
+  }
+  li > img {
+    width: 60px;
+  }
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

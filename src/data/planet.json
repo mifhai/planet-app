@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Planet Earth",
+    "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. While large volumes of water can be found throughout the Solar System, only Earth sustains liquid surface water. About 71% of Earth's surface is made up of the ocean, dwarfing Earth's polar ice, lakes, and rivers. The remaining 29% of Earth's surface is land, consisting of continents and islands. Earth's surface layer is formed of several slowly moving tectonic plates, interacting to produce mountain ranges, volcanoes, and earthquakes. Earth's liquid outer core generates the magnetic field that shapes Earth's magnetosphere, deflecting destructive solar winds.",
+    "image": "earth.png",
+    "url": "https://earth.google.com/web/@4.95802315,119.19604758,-601.91957456a,22252355.36065578d,35y,0h,0t,0r"
+  },
+  {
+    "id": 2,
+    "name": "Planet Mars",
+    "description": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war. Mars is a terrestrial planet with a thin atmosphere, and has a crust primarily composed of elements similar to Earth's crust, as well as a core made of iron and nickel. Mars has surface features such as impact craters, valleys, dunes, and polar ice caps. It also has two small and irregularly shaped moons, Phobos and Deimos.",
+    "image": "mars.png",
+    "url": "https://www.google.com/maps/space/mars/@47.9850873,1.4163242,22671584m"
+  },
+  {
+    "id": 3,
+    "name": "Planet Pluto",
+    "description": "Pluto is the ninth-largest and tenth-most-massive known object directly orbiting the Sun. It is the largest known trans-Neptunian object by volume but is less massive than Eris. Like other Kuiper belt objects, Pluto is primarily made of ice and rock and is relatively small—one-sixth the mass of the Moon and one-third its volume.",
+    "image": "pluto.png",
+    "url": "https://www.google.com/maps/space/pluto/@22.2992985,16.5110714,22671583m"
+  },
+  {
+    "id": 4,
+    "name": "Planet Venus",
+    "description": "Venus is the second planet from the Sun and is named after the Roman goddess of love and beauty. As the brightest natural object in Earth's night sky after the Moon, Venus can cast shadows and can be visible to the naked eye in broad daylight.",
+    "image": "venus.png",
+    "url": "https://www.google.com/maps/space/venus/@22.2992985,16.5110714,22630673m"
+  },
+  {
+    "id": 5,
+    "name": "Moon",
+    "description": "The Moon is Earth's only natural satellite. At about one-quarter the diameter of Earth (comparable to the width of Australia), it is the fifth largest satellite in the Solar System, the largest satellite in the Solar System relative to its major planet and larger than any known dwarf planet. The Moon is a planetary-mass object that formed a differentiated rocky body, making it a satellite planet under the geophysical definitions of the term. It lacks any significant atmosphere, hydrosphere, or magnetic field. Its surface gravity is about one-sixth of Earth's (0.1654 g). Jupiter's moon Io is the only satellite in the Solar System known to have a higher surface gravity and density.",
+    "image": "moon.png",
+    "url": "https://www.google.com/maps/space/moon/@22.2992985,16.5110714,22671583m"
+  }
+]
